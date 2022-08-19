@@ -1,0 +1,7 @@
+
+Usage: MotifPSSM AlignmentFile SequenceFile [ScoreCutoff]
+
+If ScoreCutoff is omitted the higher of zero and the lowest
+score among the sequences in the training set is used
+
+

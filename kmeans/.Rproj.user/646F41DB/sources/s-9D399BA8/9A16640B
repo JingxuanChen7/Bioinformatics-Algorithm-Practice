@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568742170754.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "76608995",
+    "id" : "9A16640B",
+    "lastKnownWriteTime" : 1568928210,
+    "last_content_update" : 1568928210331,
+    "path" : "~/OneDrive - University of Georgia/Fall_2019/BINF8500_algorithm/kmeans/plot.r",
+    "project_path" : "plot.r",
+    "properties" : {
+        "cursorPosition" : "25,21",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

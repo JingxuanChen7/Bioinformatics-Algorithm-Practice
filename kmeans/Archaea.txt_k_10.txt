@@ -1,0 +1,89 @@
+Detailed output for k=10
+
+List of data points in each cluster preceded by distance to centroid:
+
+Cluster 1:
+	1.23	Methanobrevibacter olleyae DSM 16632|37|26.9
+	0.89	Methanococcus maripaludis S2|32.5|33.1
+	0.66	Methanococcus vannielii SB|30|31.3
+
+Cluster 2:
+	2.37	Acidilobus saccharovorans 345-15|80|57.2
+	1.95	Desulfurococcus kamchatkensis 1221n|85|45.34
+	2.39	Ignicoccus islandicus Kol8, DSM 13165|90|44.9
+	2.16	Pyrobaculum islandicum DSM 4184|100|49.6
+	1.74	Thermoproteus tenax Kra1|86|55.1
+	2.00	Vulcanisaeta distributa DSM 14429|90|45.4
+
+Cluster 3:
+	0.77	Acidianus hospitalis W1|65|34.1
+	1.49	Caldisphaera lagunensis IC-154, DSM 15908|75|30
+	1.30	Fervidicoccus fontis Kam940|67.5|37.5
+	1.01	Sulfolobus islandicus M.16.4|80|35
+
+Cluster 4:
+	1.02	Haloferax volcanii DS2|42|66.6
+	1.07	Halogeometricum borinquense PR3, DSM 11551|40|61.1
+	0.98	Halomicrobium mukohataei arg-2, DSM 12286|45|65.6
+	1.21	Haloplanus natans DSM 17983|40|65
+	1.08	Halorhabdus tiamatea SARL4B|45|62.6
+	1.50	Halorubrum lacusprofundi ATCC 49239|34|66.7
+	0.87	Halovivax ruber XH-70, DSM 18193|37|64.3
+	1.38	Natronococcus occultus SP4|37|64.9
+
+Cluster 5:
+	2.28	Picrophilus torridus DSM 9790|60|36
+	1.60	Thermoplasma acidophilum DSM 1728|54|46
+	1.15	Thermoplasma volcanium GSS1|50|39.9
+
+Cluster 6:
+	2.43	Cenarchaeum symbiosum A|10|57.4
+	2.02	Methanoculleus marisnigri JR1, DSM 1498|23|62.1
+	2.28	Methanothermobacter thermautotrophicus Delta H|67.5|49.5
+
+Cluster 7:
+	2.15	Archaeoglobus fulgidus VC-16, DSM 4304|76|48.6
+	0.99	Archaeoglobus profundus Av18, DSM 5631|82|42
+	2.73	Methanocaldococcus infernus ME|73|33.6
+
+Cluster 8:
+	1.39	Palaeococcus pacificus DY20341|80|43
+	1.12	Pyrococcus furiosus DSM 3638|86.5|40.8
+	0.96	Pyrococcus yayanosii CH1|98|51.6
+	1.37	Thermococcus sp. CL1|85|55.8
+
+Cluster 9:
+	1.74	Methanobacterium formicicum BRM9|35|41.3
+	1.65	Methanococcoides burtonii DSM 6242|23.4|40.8
+	1.07	Methanosarcina mazei Go1|35|41.5
+	1.24	Methanosarcina thermophila TM-1|50|41.1
+
+Cluster 10:
+	0.00	Pyrolobus fumarii 1A, DSM 11204|106|54.9
+
+
+Mutual pairwise distances among centroids:
+Cluster 1	Cluster 2	Cluster 3	Cluster 4	Cluster 5	Cluster 6	Cluster 7	Cluster 8	Cluster 9	Cluster 10	
+	0.0000		19.3869		7.7395		47.3434		12.0165		28.0279		8.3173		19.4406		8.6988		34.9863	Cluster 1
+			0.0000		10.6580		20.5076		8.4566		9.6846		10.8701		5.5558		11.6869		7.9076	Cluster 2
+					0.0000		45.3081		3.6171		30.5788		12.1437		11.8400		13.1892		31.6534	Cluster 3
+							0.0000		37.3128		10.9320		34.5188		21.0070		24.4018		17.2839	Cluster 4
+									0.0000		23.1040		16.7786		13.1425		13.8788		26.8063	Cluster 5
+											0.0000		19.3634		16.0054		11.2464		7.7159	Cluster 6
+													0.0000		8.0477		12.4403		15.3995	Cluster 7
+															0.0000		14.6219		11.0206	Cluster 8
+																	0.0000		20.9732	Cluster 9
+																			0.0000	Cluster 10
+
+
+Centroid coordinates:
+Cluster 1:	-1.09	-1.83	1.78	-0.05	1.45	-0.40	0.15	-1.10	-0.59	1.05	-0.61	1.23	0.26	0.67	-1.78	0.54	-0.17	-1.89	0.16	-1.26
+Cluster 2:	0.14	0.64	-0.38	-0.81	-0.27	-0.29	-0.85	0.01	-0.71	-0.12	1.31	-0.11	-0.07	-0.82	0.92	0.03	-0.56	1.14	0.65	0.90
+Cluster 3:	-1.04	-1.12	1.05	-0.74	-0.73	-0.19	-0.60	-1.17	-1.52	1.21	0.52	0.94	-0.07	0.78	-0.63	1.09	-0.69	-0.17	1.22	-1.08
+Cluster 4:	1.52	0.83	-1.09	1.80	-0.65	0.83	0.73	1.25	1.24	-1.53	-0.95	-1.55	-1.40	-1.10	0.73	-0.53	1.71	0.42	-1.43	1.01
+Cluster 5:	-0.79	-0.55	1.12	-0.09	-1.02	-0.48	-1.74	-0.69	-0.48	1.10	-1.27	0.30	1.64	1.52	-0.94	1.65	-0.49	-1.06	1.61	-1.16
+Cluster 6:	0.47	0.88	-0.55	0.13	1.21	0.33	-0.56	1.42	1.26	-0.37	-0.71	-0.67	1.16	-0.50	1.07	0.10	0.25	-0.61	-0.80	-0.24
+Cluster 7:	-0.68	-0.22	0.06	-0.50	1.35	-1.42	1.17	-0.88	-0.72	0.54	0.24	1.10	-0.15	0.91	-1.06	-1.01	-1.24	-0.62	0.26	0.08
+Cluster 8:	-0.34	0.18	-0.37	-0.83	-1.09	-0.82	1.11	-0.02	-0.21	0.17	0.95	0.59	0.06	0.88	0.05	-1.36	-0.75	0.98	0.18	0.07
+Cluster 9:	-0.49	-0.88	0.56	-0.19	1.15	1.49	0.01	-0.38	0.50	0.29	-0.29	0.38	0.83	0.38	-0.55	0.57	0.26	-0.62	-0.37	-0.84
+Cluster 10:	0.78	1.96	-1.20	-0.99	0.62	-0.97	0.11	-0.01	0.89	-0.69	2.09	-0.48	-0.42	-2.22	1.34	-0.98	-0.68	1.58	-0.26	1.66

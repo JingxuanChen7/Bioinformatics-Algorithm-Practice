@@ -1,0 +1,65 @@
+Detailed output for k=4
+
+List of data points in each cluster preceded by distance to centroid:
+
+Cluster 1:
+	3.63	Acidilobus saccharovorans 345-15|80|57.2
+	2.99	Archaeoglobus fulgidus VC-16, DSM 4304|76|48.6
+	3.54	Archaeoglobus profundus Av18, DSM 5631|82|42
+	2.26	Desulfurococcus kamchatkensis 1221n|85|45.34
+	1.90	Ignicoccus islandicus Kol8, DSM 13165|90|44.9
+	2.86	Palaeococcus pacificus DY20341|80|43
+	2.50	Pyrobaculum islandicum DSM 4184|100|49.6
+	2.53	Pyrococcus furiosus DSM 3638|86.5|40.8
+	2.16	Pyrococcus yayanosii CH1|98|51.6
+	3.90	Pyrolobus fumarii 1A, DSM 11204|106|54.9
+	2.00	Thermococcus sp. CL1|85|55.8
+	2.72	Thermoproteus tenax Kra1|86|55.1
+	2.80	Vulcanisaeta distributa DSM 14429|90|45.4
+
+Cluster 2:
+	1.02	Haloferax volcanii DS2|42|66.6
+	1.07	Halogeometricum borinquense PR3, DSM 11551|40|61.1
+	0.98	Halomicrobium mukohataei arg-2, DSM 12286|45|65.6
+	1.21	Haloplanus natans DSM 17983|40|65
+	1.08	Halorhabdus tiamatea SARL4B|45|62.6
+	1.50	Halorubrum lacusprofundi ATCC 49239|34|66.7
+	0.87	Halovivax ruber XH-70, DSM 18193|37|64.3
+	1.38	Natronococcus occultus SP4|37|64.9
+
+Cluster 3:
+	1.71	Acidianus hospitalis W1|65|34.1
+	2.36	Caldisphaera lagunensis IC-154, DSM 15908|75|30
+	1.99	Fervidicoccus fontis Kam940|67.5|37.5
+	2.70	Methanobrevibacter olleyae DSM 16632|37|26.9
+	4.48	Methanocaldococcus infernus ME|73|33.6
+	2.70	Methanococcus maripaludis S2|32.5|33.1
+	2.52	Methanococcus vannielii SB|30|31.3
+	3.60	Picrophilus torridus DSM 9790|60|36
+	2.35	Sulfolobus islandicus M.16.4|80|35
+	3.65	Thermoplasma acidophilum DSM 1728|54|46
+	2.38	Thermoplasma volcanium GSS1|50|39.9
+
+Cluster 4:
+	3.87	Cenarchaeum symbiosum A|10|57.4
+	2.69	Methanobacterium formicicum BRM9|35|41.3
+	2.34	Methanococcoides burtonii DSM 6242|23.4|40.8
+	3.38	Methanoculleus marisnigri JR1, DSM 1498|23|62.1
+	2.06	Methanosarcina mazei Go1|35|41.5
+	1.96	Methanosarcina thermophila TM-1|50|41.1
+	2.29	Methanothermobacter thermautotrophicus Delta H|67.5|49.5
+
+
+Mutual pairwise distances among centroids:
+Cluster 1	Cluster 2	Cluster 3	Cluster 4	
+	0.0000		9.6598		6.6750		1.2165	Cluster 1
+			0.0000		20.4167		8.3048	Cluster 2
+					0.0000		3.3299	Cluster 3
+							0.0000	Cluster 4
+
+
+Centroid coordinates:
+Cluster 1:	-0.04	0.52	-0.42	-0.78	-0.22	-0.62	0.11	-0.10	-0.42	-0.03	1.05	0.20	-0.02	-0.11	0.41	-0.61	-0.71	0.95	0.33	0.65
+Cluster 2:	1.52	0.83	-1.09	1.80	-0.65	0.83	0.73	1.25	1.24	-1.53	-0.95	-1.55	-1.40	-1.10	0.73	-0.53	1.71	0.42	-1.43	1.01
+Cluster 3:	-1.00	-1.15	1.24	-0.36	-0.02	-0.51	-0.52	-1.04	-0.94	1.14	-0.25	0.93	0.42	0.93	-1.11	0.87	-0.57	-1.03	1.00	-1.14
+Cluster 4:	-0.08	-0.12	0.09	-0.05	1.17	0.99	-0.23	0.39	0.82	0.01	-0.47	-0.07	0.97	0.00	0.14	0.37	0.26	-0.62	-0.56	-0.58

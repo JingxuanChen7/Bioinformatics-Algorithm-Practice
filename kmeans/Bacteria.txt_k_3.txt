@@ -1,0 +1,113 @@
+Detailed output for k=3
+
+List of data points in each cluster preceded by distance to centroid:
+
+Cluster 1:
+	2.18	Bacillus coagulans 2-6|55|46.9
+	1.53	Bartonella henselae Houston-1|37|38.2
+	1.68	Bdellovibrio bacteriovorus Tiberius|29|49.9
+	1.86	Colwellia psychrerythraea 34H|8|38.05
+	2.99	Desulfobulbus propionicus 1pr3, DSM 2032|39|58.9
+	2.33	Desulfotalea psychrophila LSv54|10|46.8
+	2.34	Dyadobacter fermentans NS114, DSM 18053|28|51.5
+	2.94	Enterococcus faecium Hucker1, NRRL B-2354|26|38.2
+	1.97	Escherichia coli O145:H28 RM13514|37|50.6
+	1.63	Haemophilus parasuis SH0165|37|40
+	2.66	Halothiobacillus neapolitanus c2, ATCC 23641|40|54.7
+	3.90	Oenococcus oeni PSU-1|21|37.9
+	2.61	Parageobacillus thermoglucosidasius C56-YS93|60|43.9
+	2.70	Pelodictyon (Chlorobium) luteolum DSM 273|25|57.3
+	1.15	Photobacterium profundum SS9|15|42
+	1.98	Psychrobacter arcticus 273-4|-2.5|42.8
+	2.42	Runella slithyformis LSU4, DSM 19594|25|46.6
+	2.58	Serratia plymuthica AS9|25|56
+	1.36	Shewanella baltica OS223|4|46.3
+	1.65	Shewanella denitrificans OS217|22.5|45.1
+	1.27	Shewanella halifaxensis HAW-EB4|10|44.6
+	1.64	Shewanella loihica PV-4|18|53.7
+	1.34	Shewanella sediminis HAW-EB3|10|46.1
+	3.42	Staphylococcus lugdunensis N920143|33.5|33.9
+	2.87	Streptococcus thermophilus CNRZ1066|45|38.9
+	1.92	Tolumonas auensis TA 4, DSM 9187|22|49
+	1.28	Vibrio vulnificus M06-24/O|25|46.3
+
+Cluster 2:
+	2.57	Agrobacterium radiobacter K84|26.5|59.87
+	3.28	Azotobacter chroococcum X50Fred|27|66.3
+	2.22	Bordetella parapertussis Bpp5|36|67.8
+	3.10	Candidatus Desulforudis audaxviator MP104C|60|60.8
+	2.67	Corynebacterium maris DSM 45190|35|66.7
+	3.73	Corynebacterium terpenotabidum Y-11|28|67
+	3.04	Deinococcus actinosclerus BM2|31|70.6
+	2.88	Desulfuromonas sp. WTL|25|61.2
+	2.26	Dinoroseobacter shibae DFL-12, DSM 16493|33|65.51
+	1.52	Hyphomicrobium nitrativorans NL23|32.5|63.9
+	2.57	Isosphaera pallida IS1B, ATCC 43644|45|62.4
+	2.62	Kocuria rhizophila DC2201|30|71.2
+	2.60	Leisingera methylohalidivorans MB2, DSM 14336|20|62.4
+	4.41	lumatobacter coccineum YM16-304|20|67.3
+	1.94	Methylococcus capsulatus Bath|45|63.6
+	2.64	Mycobacterium tuberculosis H37Rv|37|65.6
+	6.07	Paenibacillus borealis DSM 13188|28|51.4
+	2.71	Polaromonas naphthalenivorans CJ2|20|62.5
+	2.43	Polaromonas sp. JS666|20|62.5
+	3.26	Pseudomonas aeruginosa PAO1|27.5|66.6
+	3.02	Pseudomonas putida S16|30|61.5
+	2.65	Renibacterium salmoninarum ATCC 33209|15|56.3
+	2.75	Saccharomonospora viridis P101, DSM 43017|55|67.3
+	3.05	Salinibacter ruber M31, DSM 13855|42|66.12
+	1.84	Sphaerobacter thermophilus 4ac11, DSM 20745|55|68.1
+	2.29	Sphingomonas sanxanigenens DSM 19645, NX02|29|66.67
+	3.49	Spirochaeta thermophila Z-1203, DSM 6578|65|60.9
+	3.90	Sulfobacillus acidophilus TPY|50|56.8
+	2.23	Tessaracoccus flavus RP1T|28|67.9
+	4.39	Thermaerobacter marianensis 7p75a, DSM 12885|75|72.5
+	3.02	Thermobacillus composti KWC4, DSM 18247|50|60.6
+	2.81	Thermomicrobium roseum DSM 515|70|63.6
+	6.39	Thermus scotoductus SA-01, ATCC 700910|65|64.9
+	7.17	Thermus thermophilus HB8|85|69.5
+	2.36	Xanthomonas citri citri Aw|28|64.6
+
+Cluster 3:
+	3.69	Aquifex aeolicus VF5|96|43.5
+	2.14	Caldanaerobacter subterraneus tengcongensis MB4T|75|37.6
+	1.49	Caldicellulosiruptor hydrothermalis 108|79|36.1
+	1.60	Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137|78|36.1
+	1.59	Caldicellulosiruptor kronotskyensis 2002|70|35.1
+	1.52	Caldicellulosiruptor obsidiansis OB47|79|35.2
+	1.57	Caldicellulosiruptor owensensis OL|79|35.4
+	3.18	Carboxydothermus hydrogenoformans Z-2901|78|42
+	3.23	Cellulophaga algicola IC166, DSM 14237|20|33.8
+	3.41	Clostridium saccharobutylicum DSM 13864|32|28.7
+	2.66	Clostridium stercorarium stercorarium DSM 8532|60|42.2
+	2.35	Desulfurobacterium thermolithotrophum BSA, DSM 11699|70|34.9
+	2.31	Dictyoglomus thermophilum H-6-12, ATCC 35947|78|33.7
+	2.22	Flexistipes sinusarabici MAS10, DSM 4947|47.5|38.3
+	2.56	Ignavibacterium album Mat9-16, JCM 16511|45|33.9
+	3.59	Lacinutrix sp. 5H-3-7-4|17.5|30.8
+	3.12	Lactococcus lactis subsp. cremoris NZ9000|40|35.3
+	3.24	Marinitoga piezophila KA3|65|29.2
+	3.97	Mesoplasma florum L1|30|27
+	6.19	Mycoplasma hyopneumoniae 7422|37|28.5
+	6.07	Mycoplasma mobile 163K|20|25
+	2.72	Natranaerobius thermophilus JW/NM-WN-LF|53|36.3
+	2.34	Pseudothermotoga thermarum DSM 5069|80|40.3
+	1.85	Thermoanaerobacter kivui DSM 2030|60|35
+	4.31	Thermocrinis albus HI 11/12, DSM 14484|80|46.9
+	4.01	Thermodesulfatator indicus CIR29812, DSM 15286|70|42.4
+	2.46	Thermodesulfobium narugense Na82, DSM 14796|50|33.9
+	3.31	Thermotoga maritima MSB8|80|46.2
+	3.47	Thermotoga neapolitana DSM 4359|72.5|46.9
+
+
+Mutual pairwise distances among centroids:
+Cluster 1	Cluster 2	Cluster 3	
+	0.0000		5.3591		1.5534	Cluster 1
+			0.0000		12.1414	Cluster 2
+					0.0000	Cluster 3
+
+
+Centroid coordinates:
+Cluster 1:	-0.15	-0.47	0.26	-0.03	0.37	1.04	-0.44	-0.37	0.65	0.09	-0.03	0.06	0.89	0.06	-0.40	0.65	0.33	0.01	0.08	-0.53
+Cluster 2:	1.05	1.09	-0.96	0.35	-0.27	-0.11	-0.44	1.07	0.54	-1.00	0.45	-1.03	-0.49	-0.93	1.05	-0.70	0.27	0.81	-0.97	0.74
+Cluster 3:	-1.13	-0.88	0.91	-0.40	-0.02	-0.83	0.94	-0.95	-1.26	1.12	-0.51	1.18	-0.24	1.07	-0.89	0.24	-0.63	-0.99	1.11	-0.41

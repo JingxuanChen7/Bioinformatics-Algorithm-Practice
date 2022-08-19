@@ -1,0 +1,109 @@
+Detailed output for k=15
+
+List of data points in each cluster preceded by distance to centroid:
+
+Cluster 1:
+	0.97	Archaeoglobus fulgidus VC-16, DSM 4304|76|48.6
+	0.97	Archaeoglobus profundus Av18, DSM 5631|82|42
+
+Cluster 2:
+	0.00	Ignicoccus islandicus Kol8, DSM 13165|90|44.9
+
+Cluster 3:
+	1.74	Methanobacterium formicicum BRM9|35|41.3
+	1.65	Methanococcoides burtonii DSM 6242|23.4|40.8
+	1.07	Methanosarcina mazei Go1|35|41.5
+	1.24	Methanosarcina thermophila TM-1|50|41.1
+
+Cluster 4:
+	0.67	Palaeococcus pacificus DY20341|80|43
+	0.67	Pyrococcus furiosus DSM 3638|86.5|40.8
+
+Cluster 5:
+	0.00	Cenarchaeum symbiosum A|10|57.4
+
+Cluster 6:
+	0.77	Acidianus hospitalis W1|65|34.1
+	1.49	Caldisphaera lagunensis IC-154, DSM 15908|75|30
+	1.30	Fervidicoccus fontis Kam940|67.5|37.5
+	1.01	Sulfolobus islandicus M.16.4|80|35
+
+Cluster 7:
+	2.28	Picrophilus torridus DSM 9790|60|36
+	1.60	Thermoplasma acidophilum DSM 1728|54|46
+	1.15	Thermoplasma volcanium GSS1|50|39.9
+
+Cluster 8:
+	1.23	Methanobrevibacter olleyae DSM 16632|37|26.9
+	0.89	Methanococcus maripaludis S2|32.5|33.1
+	0.66	Methanococcus vannielii SB|30|31.3
+
+Cluster 9:
+	2.12	Acidilobus saccharovorans 345-15|80|57.2
+	1.67	Desulfurococcus kamchatkensis 1221n|85|45.34
+	1.44	Vulcanisaeta distributa DSM 14429|90|45.4
+
+Cluster 10:
+	1.02	Haloferax volcanii DS2|42|66.6
+	1.07	Halogeometricum borinquense PR3, DSM 11551|40|61.1
+	0.98	Halomicrobium mukohataei arg-2, DSM 12286|45|65.6
+	1.21	Haloplanus natans DSM 17983|40|65
+	1.08	Halorhabdus tiamatea SARL4B|45|62.6
+	1.50	Halorubrum lacusprofundi ATCC 49239|34|66.7
+	0.87	Halovivax ruber XH-70, DSM 18193|37|64.3
+	1.38	Natronococcus occultus SP4|37|64.9
+
+Cluster 11:
+	0.00	Methanocaldococcus infernus ME|73|33.6
+
+Cluster 12:
+	0.50	Pyrococcus yayanosii CH1|98|51.6
+	0.50	Thermococcus sp. CL1|85|55.8
+
+Cluster 13:
+	1.78	Methanoculleus marisnigri JR1, DSM 1498|23|62.1
+	1.78	Methanothermobacter thermautotrophicus Delta H|67.5|49.5
+
+Cluster 14:
+	1.32	Pyrobaculum islandicum DSM 4184|100|49.6
+	2.14	Pyrolobus fumarii 1A, DSM 11204|106|54.9
+	1.46	Thermoproteus tenax Kra1|86|55.1
+
+Cluster 15:
+
+
+Mutual pairwise distances among centroids:
+Cluster 1	Cluster 2	Cluster 3	Cluster 4	Cluster 5	Cluster 6	Cluster 7	Cluster 8	Cluster 9	Cluster 10	Cluster 11	Cluster 12	Cluster 13	Cluster 14	Cluster 15	
+	0.0000		8.6516		11.7288		7.5873		43.7349		14.0659		20.8187		12.6287		19.8854		43.1195		10.2738		10.9549		16.8281		23.9941		nan	Cluster 1
+			0.0000		16.2353		7.7788		44.5407		12.3122		29.0317		22.0329		7.9595		40.9410		15.6278		8.4484		17.8038		10.1670		nan	Cluster 2
+					0.0000		15.1752		28.2964		15.1426		16.9440		11.4419		19.5616		37.4047		27.6253		21.5617		13.1691		27.9399		nan	Cluster 3
+							0.0000		48.4235		8.5015		19.1633		19.7509		14.7012		42.2324		16.2665		3.8989		23.1358		21.6816		nan	Cluster 4
+									0.0000		59.2544		43.0071		60.4246		28.7554		24.2567		81.8902		38.8048		9.7337		30.0312		nan	Cluster 5
+											0.0000		10.8143		10.5463		16.7765		60.8802		16.0858		18.7274		34.7446		32.2316		nan	Cluster 6
+													0.0000		16.6392		23.2500		59.7180		35.0920		26.8497		30.8291		44.0942		nan	Cluster 7
+															0.0000		34.7112		67.4206		10.9955		33.6282		35.9763		50.2527		nan	Cluster 8
+																	0.0000		32.6237		37.4405		10.2170		13.0581		5.6784		nan	Cluster 9
+																			0.0000		76.1152		31.1883		19.2399		24.8783		nan	Cluster 10
+																					0.0000		26.7672		44.1556		45.3759		nan	Cluster 11
+																							0.0000		16.0946		12.4805		nan	Cluster 12
+																									0.0000		12.2620		nan	Cluster 13
+																											0.0000		nan	Cluster 14
+																													nan	Cluster 15
+
+
+Centroid coordinates:
+Cluster 1:	-0.39	0.17	-0.27	-0.49	1.29	-1.03	1.00	-0.66	-0.60	0.17	-0.03	0.72	0.19	1.11	-0.86	-0.83	-1.08	-0.03	-0.01	0.57
+Cluster 2:	-0.52	-0.12	-0.15	-0.84	0.51	-0.86	0.43	-0.88	-0.81	-0.09	1.50	0.71	-0.21	-0.57	0.54	0.14	-0.74	1.29	0.18	0.70
+Cluster 3:	-0.49	-0.88	0.56	-0.19	1.15	1.49	0.01	-0.38	0.50	0.29	-0.29	0.38	0.83	0.38	-0.55	0.57	0.26	-0.62	-0.37	-0.84
+Cluster 4:	-0.53	-0.38	-0.19	-0.88	-1.06	-0.59	1.14	-0.39	-0.36	0.50	0.77	0.95	0.03	1.05	-0.22	-1.21	-0.82	0.81	0.31	-0.24
+Cluster 5:	0.63	0.61	-0.57	0.43	0.97	0.79	-1.50	2.48	1.68	-0.69	-1.67	-0.63	1.54	-0.63	1.77	1.20	0.27	-0.82	-0.84	-0.78
+Cluster 6:	-1.04	-1.12	1.05	-0.74	-0.73	-0.19	-0.60	-1.17	-1.52	1.21	0.52	0.94	-0.07	0.78	-0.63	1.09	-0.69	-0.17	1.22	-1.08
+Cluster 7:	-0.79	-0.55	1.12	-0.09	-1.02	-0.48	-1.74	-0.69	-0.48	1.10	-1.27	0.30	1.64	1.52	-0.94	1.65	-0.49	-1.06	1.61	-1.16
+Cluster 8:	-1.09	-1.83	1.78	-0.05	1.45	-0.40	0.15	-1.10	-0.59	1.05	-0.61	1.23	0.26	0.67	-1.78	0.54	-0.17	-1.89	0.16	-1.26
+Cluster 9:	-0.09	0.60	-0.12	-0.75	-0.64	-0.35	-1.23	0.18	-0.71	0.07	1.25	-0.32	0.43	-0.98	0.71	0.63	-0.43	0.85	0.80	0.83
+Cluster 10:	1.52	0.83	-1.09	1.80	-0.65	0.83	0.73	1.25	1.24	-1.53	-0.95	-1.55	-1.40	-1.10	0.73	-0.53	1.71	0.42	-1.43	1.01
+Cluster 11:	-1.25	-0.99	0.74	-0.54	1.47	-2.20	1.50	-1.33	-0.97	1.28	0.78	1.87	-0.82	0.53	-1.48	-1.36	-1.55	-1.82	0.79	-0.90
+Cluster 12:	-0.15	0.74	-0.55	-0.78	-1.13	-1.04	1.08	0.36	-0.06	-0.15	1.12	0.24	0.09	0.70	0.32	-1.51	-0.68	1.15	0.06	0.38
+Cluster 13:	0.39	1.02	-0.53	-0.02	1.33	0.11	-0.09	0.89	1.05	-0.21	-0.22	-0.70	0.97	-0.44	0.71	-0.45	0.25	-0.50	-0.79	0.03
+Cluster 14:	0.80	1.37	-1.00	-0.92	0.13	-0.27	-0.57	0.13	-0.15	-0.52	1.57	-0.30	-0.65	-1.22	1.40	-0.94	-0.68	1.53	0.35	1.30
+Cluster 15:	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan

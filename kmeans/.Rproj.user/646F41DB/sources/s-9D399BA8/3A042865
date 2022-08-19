@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568923950501.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3A042865",
+    "lastKnownWriteTime" : 8026900113622302720,
+    "last_content_update" : 1568923950501,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AADE9326",
+        "caption" : "k5table",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=k5table&cache_key=AADE9326",
+        "displayedObservations" : 130,
+        "environment" : "",
+        "object" : "k5table",
+        "preview" : 0,
+        "totalObservations" : 130,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

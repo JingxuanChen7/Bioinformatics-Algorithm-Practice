@@ -1,0 +1,176 @@
+Detailed output for k=9
+
+List of data points in each cluster preceded by distance to centroid:
+
+Cluster 1:
+	1.80	Agrobacterium radiobacter K84|26.5|59.87
+	2.71	Azotobacter chroococcum X50Fred|27|66.3
+	1.92	Bordetella parapertussis Bpp5|36|67.8
+	3.01	Candidatus Desulforudis audaxviator MP104C|60|60.8
+	2.03	Desulfobulbus propionicus 1pr3, DSM 2032|39|58.9
+	2.00	Desulfuromonas sp. WTL|25|61.2
+	2.20	Dinoroseobacter shibae DFL-12, DSM 16493|33|65.51
+	1.94	Halothiobacillus neapolitanus c2, ATCC 23641|40|54.7
+	1.51	Leisingera methylohalidivorans MB2, DSM 14336|20|62.4
+	1.44	Methylococcus capsulatus Bath|45|63.6
+	2.50	Pelodictyon (Chlorobium) luteolum DSM 273|25|57.3
+	1.42	Polaromonas naphthalenivorans CJ2|20|62.5
+	1.41	Polaromonas sp. JS666|20|62.5
+	2.70	Pseudomonas aeruginosa PAO1|27.5|66.6
+	1.90	Pseudomonas putida S16|30|61.5
+	2.20	Serratia plymuthica AS9|25|56
+	2.07	Thermobacillus composti KWC4, DSM 18247|50|60.6
+	2.40	Xanthomonas citri citri Aw|28|64.6
+	4.46	Cenarchaeum symbiosum A|10|57.4
+	3.12	Methanoculleus marisnigri JR1, DSM 1498|23|62.1
+
+Cluster 2:
+	1.65	Caldicellulosiruptor hydrothermalis 108|79|36.1
+	1.85	Caldicellulosiruptor kristjanssonii 177R1B, DSM 12137|78|36.1
+	1.56	Caldicellulosiruptor kronotskyensis 2002|70|35.1
+	1.72	Caldicellulosiruptor obsidiansis OB47|79|35.2
+	1.72	Caldicellulosiruptor owensensis OL|79|35.4
+	2.91	Cellulophaga algicola IC166, DSM 14237|20|33.8
+	2.43	Clostridium saccharobutylicum DSM 13864|32|28.7
+	2.01	Clostridium stercorarium stercorarium DSM 8532|60|42.2
+	1.45	Flexistipes sinusarabici MAS10, DSM 4947|47.5|38.3
+	2.59	Ignavibacterium album Mat9-16, JCM 16511|45|33.9
+	3.41	Lacinutrix sp. 5H-3-7-4|17.5|30.8
+	3.23	Marinitoga piezophila KA3|65|29.2
+	2.62	Natranaerobius thermophilus JW/NM-WN-LF|53|36.3
+	1.83	Thermoanaerobacter kivui DSM 2030|60|35
+	2.31	Thermodesulfobium narugense Na82, DSM 14796|50|33.9
+	1.95	Acidianus hospitalis W1|65|34.1
+	2.83	Caldisphaera lagunensis IC-154, DSM 15908|75|30
+	2.48	Fervidicoccus fontis Kam940|67.5|37.5
+	2.31	Methanobrevibacter olleyae DSM 16632|37|26.9
+	3.17	Methanococcoides burtonii DSM 6242|23.4|40.8
+	2.39	Methanococcus maripaludis S2|32.5|33.1
+	2.17	Methanococcus vannielii SB|30|31.3
+	2.42	Methanosarcina mazei Go1|35|41.5
+	2.54	Methanosarcina thermophila TM-1|50|41.1
+	4.00	Picrophilus torridus DSM 9790|60|36
+	2.53	Sulfolobus islandicus M.16.4|80|35
+	3.81	Thermoplasma acidophilum DSM 1728|54|46
+	2.69	Thermoplasma volcanium GSS1|50|39.9
+
+Cluster 3:
+	1.71	Corynebacterium maris DSM 45190|35|66.7
+	2.30	Corynebacterium terpenotabidum Y-11|28|67
+	2.40	Deinococcus actinosclerus BM2|31|70.6
+	1.89	Hyphomicrobium nitrativorans NL23|32.5|63.9
+	2.53	Isosphaera pallida IS1B, ATCC 43644|45|62.4
+	1.55	Kocuria rhizophila DC2201|30|71.2
+	2.80	lumatobacter coccineum YM16-304|20|67.3
+	1.86	Mycobacterium tuberculosis H37Rv|37|65.6
+	2.67	Renibacterium salmoninarum ATCC 33209|15|56.3
+	1.61	Saccharomonospora viridis P101, DSM 43017|55|67.3
+	2.28	Salinibacter ruber M31, DSM 13855|42|66.12
+	1.59	Sphaerobacter thermophilus 4ac11, DSM 20745|55|68.1
+	2.25	Sphingomonas sanxanigenens DSM 19645, NX02|29|66.67
+	3.85	Sulfobacillus acidophilus TPY|50|56.8
+	0.96	Tessaracoccus flavus RP1T|28|67.9
+	4.19	Thermaerobacter marianensis 7p75a, DSM 12885|75|72.5
+	2.96	Thermomicrobium roseum DSM 515|70|63.6
+
+Cluster 4:
+	1.71	Aquifex aeolicus VF5|96|43.5
+	1.84	Caldanaerobacter subterraneus tengcongensis MB4T|75|37.6
+	2.02	Carboxydothermus hydrogenoformans Z-2901|78|42
+	1.79	Desulfurobacterium thermolithotrophum BSA, DSM 11699|70|34.9
+	2.34	Dictyoglomus thermophilum H-6-12, ATCC 35947|78|33.7
+	1.86	Pseudothermotoga thermarum DSM 5069|80|40.3
+	2.87	Thermodesulfatator indicus CIR29812, DSM 15286|70|42.4
+	1.78	Thermotoga maritima MSB8|80|46.2
+	2.01	Thermotoga neapolitana DSM 4359|72.5|46.9
+	2.36	Archaeoglobus fulgidus VC-16, DSM 4304|76|48.6
+	2.25	Archaeoglobus profundus Av18, DSM 5631|82|42
+	3.30	Methanocaldococcus infernus ME|73|33.6
+	1.76	Palaeococcus pacificus DY20341|80|43
+	1.82	Pyrococcus furiosus DSM 3638|86.5|40.8
+
+Cluster 5:
+	0.69	Thermus scotoductus SA-01, ATCC 700910|65|64.9
+	0.69	Thermus thermophilus HB8|85|69.5
+
+Cluster 6:
+	2.69	Mesoplasma florum L1|30|27
+	2.16	Mycoplasma hyopneumoniae 7422|37|28.5
+	1.33	Mycoplasma mobile 163K|20|25
+
+Cluster 7:
+	2.74	Spirochaeta thermophila Z-1203, DSM 6578|65|60.9
+	2.09	Thermocrinis albus HI 11/12, DSM 14484|80|46.9
+	2.88	Acidilobus saccharovorans 345-15|80|57.2
+	1.99	Desulfurococcus kamchatkensis 1221n|85|45.34
+	2.07	Ignicoccus islandicus Kol8, DSM 13165|90|44.9
+	3.78	Methanothermobacter thermautotrophicus Delta H|67.5|49.5
+	2.16	Pyrobaculum islandicum DSM 4184|100|49.6
+	2.45	Pyrococcus yayanosii CH1|98|51.6
+	2.80	Pyrolobus fumarii 1A, DSM 11204|106|54.9
+	2.09	Thermococcus sp. CL1|85|55.8
+	1.85	Thermoproteus tenax Kra1|86|55.1
+	2.50	Vulcanisaeta distributa DSM 14429|90|45.4
+
+Cluster 8:
+	0.49	Paenibacillus borealis DSM 13188|28|51.4
+	0.96	Haloferax volcanii DS2|42|66.6
+	0.95	Halogeometricum borinquense PR3, DSM 11551|40|61.1
+	0.49	Halomicrobium mukohataei arg-2, DSM 12286|45|65.6
+	0.95	Haloplanus natans DSM 17983|40|65
+	0.81	Halorhabdus tiamatea SARL4B|45|62.6
+	1.10	Halorubrum lacusprofundi ATCC 49239|34|66.7
+	0.84	Halovivax ruber XH-70, DSM 18193|37|64.3
+	1.25	Natronococcus occultus SP4|37|64.9
+
+Cluster 9:
+	1.93	Bacillus coagulans 2-6|55|46.9
+	1.53	Bartonella henselae Houston-1|37|38.2
+	1.57	Bdellovibrio bacteriovorus Tiberius|29|49.9
+	1.61	Colwellia psychrerythraea 34H|8|38.05
+	2.33	Desulfotalea psychrophila LSv54|10|46.8
+	2.14	Dyadobacter fermentans NS114, DSM 18053|28|51.5
+	2.48	Enterococcus faecium Hucker1, NRRL B-2354|26|38.2
+	2.41	Escherichia coli O145:H28 RM13514|37|50.6
+	1.46	Haemophilus parasuis SH0165|37|40
+	2.84	Lactococcus lactis subsp. cremoris NZ9000|40|35.3
+	3.47	Oenococcus oeni PSU-1|21|37.9
+	2.33	Parageobacillus thermoglucosidasius C56-YS93|60|43.9
+	1.27	Photobacterium profundum SS9|15|42
+	1.84	Psychrobacter arcticus 273-4|-2.5|42.8
+	2.21	Runella slithyformis LSU4, DSM 19594|25|46.6
+	1.61	Shewanella baltica OS223|4|46.3
+	1.74	Shewanella denitrificans OS217|22.5|45.1
+	1.35	Shewanella halifaxensis HAW-EB4|10|44.6
+	1.92	Shewanella loihica PV-4|18|53.7
+	1.40	Shewanella sediminis HAW-EB3|10|46.1
+	3.09	Staphylococcus lugdunensis N920143|33.5|33.9
+	2.40	Streptococcus thermophilus CNRZ1066|45|38.9
+	2.33	Tolumonas auensis TA 4, DSM 9187|22|49
+	1.46	Vibrio vulnificus M06-24/O|25|46.3
+	2.48	Methanobacterium formicicum BRM9|35|41.3
+
+
+Mutual pairwise distances among centroids:
+Cluster 1	Cluster 2	Cluster 3	Cluster 4	Cluster 5	Cluster 6	Cluster 7	Cluster 8	Cluster 9	
+	0.0000		20.3468		2.7408		19.0296		17.5084		48.6515		10.0366		17.5759		7.4269	Cluster 1
+			0.0000		27.8304		3.5807		34.4807		12.1174		8.6753		28.6492		9.1293	Cluster 2
+					0.0000		24.6057		13.1654		55.6358		12.0602		13.1012		14.4657	Cluster 3
+							0.0000		21.2188		21.6949		3.3451		24.3538		13.2150	Cluster 4
+									0.0000		59.0430		11.0666		26.2644		29.2149	Cluster 5
+											0.0000		31.8041		58.6757		23.7065	Cluster 6
+													0.0000		18.1286		12.5696	Cluster 7
+															0.0000		25.6228	Cluster 8
+																	0.0000	Cluster 9
+
+
+Centroid coordinates:
+Cluster 1:	0.98	0.83	-0.68	-0.08	0.60	0.65	-0.84	0.85	0.87	-0.77	0.61	-0.78	0.44	-0.54	0.73	-0.42	-0.12	0.57	-0.91	-0.18
+Cluster 2:	-1.05	-1.03	1.12	-0.13	0.33	-0.59	0.28	-0.89	-1.04	1.20	-0.76	0.97	0.35	0.78	-0.96	0.80	-0.44	-0.88	1.12	-0.76
+Cluster 3:	1.41	1.29	-1.06	0.41	-0.64	0.18	-0.95	1.29	0.84	-1.15	0.12	-1.29	-0.81	-1.23	1.56	-0.65	1.00	1.29	-1.40	0.84
+Cluster 4:	-0.89	-0.37	0.03	-0.75	0.11	-0.98	1.39	-0.56	-0.94	0.68	0.16	1.12	-0.27	0.90	-0.45	-0.77	-1.12	-0.43	0.66	0.27
+Cluster 5:	0.91	1.63	-1.50	-1.83	-1.94	-0.36	1.27	1.64	0.09	-1.82	4.41	-0.71	-1.86	-0.37	2.21	-2.67	-1.79	0.82	-0.49	0.53
+Cluster 6:	-1.41	-1.73	2.82	-0.54	-1.82	0.36	-0.08	-2.38	-1.78	1.64	-0.57	1.79	-1.51	2.62	-1.79	1.43	-0.18	-3.20	0.38	-2.12
+Cluster 7:	-0.29	0.70	-0.57	-0.76	-0.17	-1.07	0.54	0.16	-0.55	0.04	0.65	-0.06	0.11	-0.57	0.35	-0.24	-0.79	0.36	0.76	1.26
+Cluster 8:	0.92	0.68	-1.07	2.98	-0.69	-0.63	1.25	1.02	0.32	-1.29	-1.27	-1.47	-1.61	-1.10	0.31	-0.37	1.86	-0.03	-0.80	1.61
+Cluster 9:	-0.17	-0.68	0.44	-0.14	0.22	1.29	-0.58	-0.54	0.78	0.07	0.06	0.18	0.82	0.27	-0.56	0.61	0.41	0.05	-0.02	-0.70
